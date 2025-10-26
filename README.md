@@ -133,6 +133,7 @@ https://quoraengineering.quora.com/Building-Embedding-Search-at-Quora
 
 
 Questions to Ask:
+
 •	“What is Build Time in GenAI platforms?”
 
 •	“How does ColBERT differ from dense retrieval?”
